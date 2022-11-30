@@ -1,0 +1,38 @@
+div {
+    background-color: rgb(45, 158, 74);
+
+}
+.teste2{
+    background-color: pink;
+    
+}
+
+#ultima-caixa{
+    width: 200px;
+    Color: purple;
+    margin-left: 20px;
+    padding-bottom: 40px;
+    border-right: 8px solid red;
+    background-color:coral
+    
+}
+
+h1{
+    border-style: dotted;
+    border-width: thick;
+    width: 250px;
+    height: 40px;
+}
+
+.teste1{
+    width: 10%;
+    height: 40px;
+    padding: 25px;
+    border: 2px solid black;
+    bottom: 20px;
+    right: 50px;
+}
+
+p{
+    background-color:chartreuse;
+}
