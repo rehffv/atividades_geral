@@ -1,0 +1,21 @@
+.home_header {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.home_header_navbar {
+    display: flex;
+    gap: 16px;
+
+}
+
+a{
+    color:black;
+}
+
+a:hover {
+    scale: 1.04;
+    color: white;
+}
