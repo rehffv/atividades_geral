@@ -11,11 +11,22 @@
 
 }
 
+.home_header_navbar_item {
+    list-style: none;
+    color: black;
+}
+
+.home_header_navbar_item:hover {
+    scale: 1.04;
+    color: white;
+}
+
 a{
     color:black;
 }
 
-a:hover {
-    scale: 1.04;
+.home_header_navbar_item:hover, a:hover {
+    scale: 1.10;
     color: white;
+    transition: all 0.4s ease-in-out;
 }
