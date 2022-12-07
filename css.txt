@@ -1,0 +1,7 @@
+width = Largura
+height = Altura
+padding = preenchimento
+margin = margem
+border =  borda
+
+* significa que as configurações vão ser aplicadas à pagina inteira
